@@ -279,12 +279,12 @@ contract ERC3475 is IERC3475 {
         _classes[2]._values["subcategory"].stringValue = "bond";
         _classes[2]._values["childCategory"].stringValue = "coupon callable bond";
         
-        _classes[2]._values["description"].stringValue = "Pledge of future economic rights resulting from a commercial contract between the borrower and its drawee with or without escrow; ";
-        _classes[2]._values["issuerName"].stringValue = "A55";
+        _classes[2]._values["description"].stringValue = "Founded in 2013, Credmei is a Brazilian fintech focused on short-term receivables advancing. The company is led by a seasoned management team with +40 years combined experience in the financial services and banking industries, and focuses on providing invoice discounting solutions for SMEs in Brazil. Their client base is composed of SME's from different segments, with a particular focus within the agribusiness and food industries";
+        _classes[2]._values["issuerName"].stringValue = "Credmei";
         _classes[2]._values["issuerType"].stringValue = "LTD";
         _classes[2]._values["issuerJurisdiction"].stringValue = "BR";
         _classes[2]._values["issuerRegistrationAddress"].stringValue = "Rodovia Admar Gonzaga, 4405 andar - Itacorubi";
-        _classes[2]._values["issuerURL"].stringValue = "https://www.a55.tech/";
+        _classes[2]._values["issuerURL"].stringValue = "https://credmei.com.br/";
         _classes[2]._values["issuerLogo"].stringValue = "https://raw.githubusercontent.com/Debond-Protocol/EIP-3475/main/test/media/8e36abff206b20109afb8e9f1c2e7572.png";
         _classes[2]._values["issuerRegistrationNumber"].stringValue = "BR-000000000000";
         _classes[2]._values["issuerDocURL"].stringArrayValue = [
